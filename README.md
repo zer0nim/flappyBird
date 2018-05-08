@@ -12,6 +12,6 @@ The game can run on multiples platforms including
 
 A project made by following the [Brent Aureli's youtube tutorial](https://www.youtube.com/playlist?list=PLZm85UZQLd2TPXpUJfDEdWTSgszionbJy)
 
-## Exemple
+## Example
 ![flappy_birds](../assets/flappy_birds1.jpg)
 ![flappy_birds](../assets/flappy_birds2.jpg)
