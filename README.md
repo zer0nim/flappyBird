@@ -1,4 +1,4 @@
-# 42 _ My_FlappyBird
+# Perso _ My_FlappyBird
 
 Making Flappy Birds from start to finish
 
